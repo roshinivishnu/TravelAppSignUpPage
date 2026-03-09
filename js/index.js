@@ -92,7 +92,7 @@ if(email===storedEmail && password===storedPassword){
 
 alert("Login Successful");
 
-window.location.href="travelapp.html";
+window.location.href="index.html";
 
 }else{
 
